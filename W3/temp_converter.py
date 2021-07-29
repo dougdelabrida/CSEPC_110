@@ -1,0 +1,6 @@
+print("=================================")
+print("===== Fahrenheit <> Celsius =====")
+print("=================================")
+value = input("test: ")
+# print(chr(27) + "[2J")
+value2 = input(f"test: {value} test2: ")
